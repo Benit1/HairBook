@@ -3,4 +3,4 @@
 	url = https://github.com/chenba12/HairBookServer.git
 [submodule "HairBookFront"]
 	path = HairBookFront
-	url = https://github.com/orben22/HairBookFront
+	url = https://github.com/orben22/HairBookFront/tree/master
