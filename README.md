@@ -1,6 +1,6 @@
 # HairBook - Barber Shop Finder App
 
-Welcome to HairBook, the ultimate Barber Shop Finder App that combines both the server-side and frontend code in one repository. HairBook is designed to provide a comprehensive solution for users looking to discover, book, and review haircuts at barber shops, and for barbers to manage their shops efficiently.
+Welcome to HairBook, the ultimate Barber Shop Finder App that combines server-side and front-side code in one repository. HairBook is designed to provide a comprehensive solution for users looking to discover, book, and review haircuts at barber shops, and for barbers to manage their shops efficiently.
 
 ## Features
 
@@ -8,7 +8,7 @@ Welcome to HairBook, the ultimate Barber Shop Finder App that combines both the 
 
 - **Discover Barber Shops:** Find barber shops in your area with detailed information, ratings, and reviews.
   
-- **Book Haircuts:** Easily book appointments for haircuts at your preferred barber shop.
+- **Book Haircuts:** Easily book haircut appointments at your preferred barbershop.
 
 - **Rate and Review:** Share your experiences by writing reviews and rating the services you receive.
 
@@ -22,7 +22,7 @@ Welcome to HairBook, the ultimate Barber Shop Finder App that combines both the 
 
 ## Technologies Used
 
-- **Android Studio (Kotlin):** The frontend of the app is developed using Kotlin, a modern programming language for Android development.
+- **Android Studio (Kotlin):** The app's front-side code is developed using Kotlin, a modern programming language for Android development.
 
 - **Node.js:** The server-side code is powered by Node.js, providing a robust server-side environment.
 
@@ -30,5 +30,13 @@ Welcome to HairBook, the ultimate Barber Shop Finder App that combines both the 
 
 ## Project Management
 
-We use Trello for project management.
+We use Trello for project management. we used Agile and Kanban boards to manage the project and the tasks we had to do
+
+## How to run?
+1) download the HairBookServer and HairBookFront files.
+2) open the HairBookServer project and install all the dependencies using `npm install`.
+3) Run the HairBookServer server using `nodemon start` and wait for the server to load.
+4) Open the HairBookFront and install all the dependencies using `./gradlew build`.
+5) Download an Android emulator to run the Application on ** Optional ** Connect an Android device to Android Studio via USB or wifi connection.
+6) Start using the app. 
 
