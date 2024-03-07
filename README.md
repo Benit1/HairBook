@@ -33,7 +33,7 @@ Welcome to HairBook, the ultimate Barber Shop Finder App that combines server-si
 We use Trello for project management. we used Agile and Kanban boards to manage the project and the tasks we had to do
 
 ## How to run?
-1) download the HairBookServer and HairBookFront files.
+1) download the HairBookServer and HairBookFront files and change to the **master branch**.
 2) open the HairBookServer project and install all the dependencies using `npm install`.
 3) Run the HairBookServer server using `nodemon start` and wait for the server to load.
 4) Open the HairBookFront and install all the dependencies using `./gradlew build`.
